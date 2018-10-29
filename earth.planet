@@ -1,6 +1,6 @@
 {
-	"heaven": {"content": "The good things", priority: 9999},
- 	"earth": {"content": null, priority: 0, features: ["day", "night"]},
-	"hell": {"content": "scalies", priority: -9999},
+	"heaven": {"content": "The good things", "level": 9999},
+ 	"earth": {"content": null, "level": 0, "features": ["day", "night", "sky", "water"]},
+	"hell": {"content": "scalies", "level": -9999},
 }
 
