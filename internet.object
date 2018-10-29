@@ -1,0 +1,8 @@
+connection {
+  speed = 4
+}
+
+content {
+  useful_information = 20
+  porn = 19872287463287521889e10
+}
