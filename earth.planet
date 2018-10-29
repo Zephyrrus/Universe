@@ -1,6 +1,6 @@
 {
-	"heaven": {"content": ["God", "Adam", "Eve", "snakes"], "level": 9999},
- 	"earth": {"content": ["vegetation", "animals", "furries"], "level": 0, "features": ["day", "night", "sky", "water", "land"]},
+	"heaven": {"content": ["God", "angels"], "level": 9999},
+ 	"earth": {"content": ["vegetation", "animals", "humans", "furries"], "level": 0, "features": ["day", "night", "sky", "water", "land"], "corrupted": true, "salvageable": false},
 	"hell": {"content": ["scalies", "demons", "satan"], "level": -9999},
 }
 
