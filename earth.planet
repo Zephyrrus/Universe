@@ -1,3 +1,6 @@
-Layer 9999: Heaven
-Layer 0: Earth
-Layer -9999: Hell
+{
+	"heaven": {"content": "The good things", priority: 9999},
+ 	"earth": {"content": null, priority: 0, features: ["day", "night"]},
+	"hell": {"content": "scalies", priority: -9999},
+}
+
