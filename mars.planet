@@ -1,0 +1,3 @@
+radius=3390 #in km
+gravity=3.711 #m/s²
+moons=phobos,deimos
