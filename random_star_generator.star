@@ -1,1 +1,1 @@
-// TODO: Implement random star formation in the future
+import universe_utils import star_generator
