@@ -1,0 +1,5 @@
+# connects to the moon
+host = moon.solarsystem.arpa
+port = 25565
+user = earth
+pass = hunter2
