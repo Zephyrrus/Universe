@@ -1,5 +1,5 @@
 {
-	"heaven": {"content": ["God", "angels"], "level": Infinity},
+	"heaven": {"content": ["God", "Angels"], "level": Infinity},
  	"earth": {"content": ["vegetation", "animals", "humans", "furries"], "level": 0, "features": ["day", "night", "sky", "water", "land"], "corrupted": true, "salvageable": false},
 	"hell": {"content": ["scalies", "demons", "satan"], "level": -Infinity, "temperature": "hot"},
 }
